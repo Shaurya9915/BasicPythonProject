@@ -1,0 +1,83 @@
+1️ Delivery Performance Insight
+
+More than expected delivery delays were observed
+
+A significant number of orders were delivered after the estimated delivery date
+
+Indicates over-optimistic delivery estimates
+
+Direct impact on customer trust and satisfaction
+
+Business Impact:
+Improving delivery estimation logic can reduce customer complaints and refunds.
+
+2️ Estimated vs Actual Delivery Gap
+
+Actual delivery time frequently exceeded estimated time
+
+Large variance between promised and actual delivery days
+
+Insight:
+Logistics planning is not aligned with real operational capacity
+
+Recommendation:
+Re-calibrate ETA calculations using historical delivery data.
+
+3️ Delay Risk Pattern
+
+Orders with longer estimated delivery windows had higher probability of delay
+
+Short-duration deliveries showed better accuracy
+
+Business Meaning:
+Long-distance or complex logistics routes are riskier
+
+Action:
+Flag long ETA orders as high-risk and proactively manage them.
+
+4️ Distribution Insight
+
+Delivery days distribution is right-skewed
+
+Majority orders delivered within a reasonable time
+
+Small percentage of extreme delays pull the average up
+
+Insight:
+Median delivery time is a better KPI than average
+
+5️ Customer Experience Impact
+
+Delayed deliveries correlate with negative customer perception
+
+Delivery performance is a key driver of customer satisfaction
+
+Business Insight:
+Delivery speed is not just operations — it’s a customer experience metric
+
+6️ Logistics Efficiency Insight
+
+Estimated delivery dates are systematically optimistic
+
+Indicates possible:
+
+Warehouse delays
+
+Courier inefficiencies
+
+Underestimated last-mile delivery time
+
+Actionable Recommendation:
+Introduce buffer days for realistic delivery commitments.
+
+7️ KPI Design Insight
+
+Best KPIs identified:
+
+% Delayed Deliveries
+
+Median Delivery Days
+
+Delivery Delay Gap (Actual − Estimated)
+
+On-Time Delivery Rate
